@@ -2,6 +2,14 @@ import { ProjectCard, Project } from "./project-card"
 
 const webProjects: Project[] = [
   {
+    title: "Sistema RAG con Búsqueda Vectorial",
+    description: "Desarrollo de un sistema de generación aumentada por recuperación (RAG) para consultas inteligentes a documentos. Utiliza flujos de IA avanzados para optimizar el contexto y reducir alucinaciones en los modelos generativos.",
+    image: "/projects/rag-project.jpg", 
+    technologies: ["Python", "MongoDB Atlas Vector Search", "LangChain", "Embeddings"],
+    repoUrl: "https://github.com/DevLeonJA/RAG_Estudio" 
+  }
+  ,
+  {
     title: "Inazuma Victory Road Foro",
     description: "Foro dedicado a la comunidad de Inazuma Victory Road para discutir sobre alineaciones usando un drag and drop para añadir los jugadores.",
     image: "/projects/VRF.png",
