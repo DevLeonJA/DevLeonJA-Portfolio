@@ -4,7 +4,8 @@ import { Badge } from "@/components/ui/badge"
 export function About() {
   const skills = [
     "Next.js", "React", "TypeScript", "Tailwind CSS",
-    "Node.js", "Python", "PostgreSQL", "MongoDB Atlas Vector Search",
+    "Node.js", "Python", "Java", "C++", "JavaScript", "HTML", "CSS",
+    "JUnit (iniciándome)", "PostgreSQL", "MongoDB Atlas Vector Search",
     "LangChain", "Búsqueda Vectorial (RAG)", "Embeddings", "Supabase", "Git/GitHub"
   ]
 
@@ -22,6 +23,9 @@ export function About() {
             </p>
             <p>
               Mi enfoque actual está en emplear herramientas como <strong>LangChain</strong>, modelos de <strong>Embeddings</strong> y <strong>MongoDB Atlas Vector Search</strong> para construir agentes y sistemas de IA capaces de consultar documentos y datos complejos, optimizando el contexto y garantizando resultados precisos.
+            </p>
+            <p>
+              También desarrollo con <strong>Java</strong>, tanto para diseño web como para aplicaciones de consola, y con <strong>C++</strong> para aplicaciones de consola. Actualmente estoy iniciándome en la creación de pruebas con <strong>JUnit</strong> y continúo reforzando mis conocimientos de <strong>JavaScript</strong>, <strong>HTML</strong> y <strong>CSS</strong>.
             </p>
           </div>
         </div>

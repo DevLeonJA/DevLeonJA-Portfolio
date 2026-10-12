@@ -4,7 +4,7 @@ const webProjects: Project[] = [
   {
     title: "Sistema RAG con Búsqueda Vectorial",
     description: "Desarrollo de un sistema de generación aumentada por recuperación (RAG) para consultas inteligentes a documentos. Utiliza flujos de IA avanzados para optimizar el contexto y reducir alucinaciones en los modelos generativos.",
-    image: "/projects/rag-project.jpg", 
+    image: "/projects/rag_project.png", 
     technologies: ["Python", "MongoDB Atlas Vector Search", "LangChain", "Embeddings"],
     repoUrl: "https://github.com/DevLeonJA/RAG_Estudio" 
   }
